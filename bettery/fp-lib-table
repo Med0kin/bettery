@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "bettery")(type "KiCad")(uri "${KIPRJMOD}/bettery.pretty")(options "")(descr ""))
+)
